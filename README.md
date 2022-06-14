@@ -41,12 +41,9 @@
 
 <img align="right" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/thatsall.gif" width='300'/>
 
-<h4> If you have same interestings or some questions, contact me, let´s talk :stuck_out_tongue_winking_eye: </h4>
+<h4> Me contate nas redes socias e vamos conversar :stuck_out_tongue_winking_eye: </h4>
 
-<a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="milena_ramiro" width="22px" /></a>
-<a href="" target="blank"><img align="left" src="icons/linkedin.svg" alt="milena-ramiro" width="22px" /></a>
-<a href="">
-  <img align="left" alt="Milena´s Telegram" width="22px" src="icons/telegram.svg" />
-</a>
-<a href="" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
-<a href="" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
+<a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="pedro_martins" width="22px" /></a>
+<a href="" target="blank"><img align="left" src="icons/linkedin.svg" alt="pedro_martins" width="22px" /></a>
+<a href="" target="blank"><img align="left" src="icons/facebook.svg" alt="pedro_martins" width="22px" /></a>
+<a href="" target="blank"><img align="left" src="icons/instagram.svg" alt="pedro_martins" width="22px" /></a>
