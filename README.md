@@ -29,12 +29,12 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 <br/>
-<br/>
 
-<img align="right" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/thatsall.gif" width='300'/>
+<img align="right" src="https://github.com/pedromartins1035/pedromartins1035/blob/main/gifs/joia.gif" width='300'/>
 
 <h4> Me contate nas redes socias e vamos conversar :stuck_out_tongue_winking_eye: </h4>
 
 <a href="https://www.linkedin.com/in/pedro-martins-7961b81a3/" target="blank"><img align="left" src="icons/linkedin.svg" alt="pedro_martins" width="22px" /></a>
 <a href="https://www.facebook.com/Pedro.Martins360/" target="blank"><img align="left" src="icons/facebook.svg" alt="pedro_martins" width="22px" /></a>
 <a href="https://www.instagram.com/pedro.martins/" target="blank"><img align="left" src="icons/instagram.svg" alt="pedro_martins" width="22px" /></a>
+
