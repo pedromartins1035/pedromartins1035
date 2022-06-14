@@ -1,7 +1,7 @@
 <h2 align="center"> Olá pessoal, eu sou o Pedro! <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="30px"> </h2>
 <h3 align="center"> Graduado em Ciências da Computação, amante de jogos e esportes 🎮⚽ </h3>
 
-<p> Gosto muito de programar em C# e estou explorando e me aprimorando em .Net Framework/Core. </b> </p>
+<p> Programador Back-End C# estou explorando e me aprimorando em .Net Framework/Core. </b> </p>
 
 
 
