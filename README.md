@@ -7,20 +7,18 @@
 
 ## :rocket: Tecnologias e Ferramentas
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## :trophy: Favoritos 
@@ -37,7 +35,6 @@
 
 <h4> Me contate nas redes socias e vamos conversar :stuck_out_tongue_winking_eye: </h4>
 
-<a href="" target="blank"><img align="left" src="icons/twitter.svg" alt="pedro_martins" width="22px" /></a>
-<a href="" target="blank"><img align="left" src="icons/linkedin.svg" alt="pedro_martins" width="22px" /></a>
-<a href="" target="blank"><img align="left" src="icons/facebook.svg" alt="pedro_martins" width="22px" /></a>
-<a href="" target="blank"><img align="left" src="icons/instagram.svg" alt="pedro_martins" width="22px" /></a>
+<a href="https://www.linkedin.com/in/pedro-martins-7961b81a3/" target="blank"><img align="left" src="icons/linkedin.svg" alt="pedro_martins" width="22px" /></a>
+<a href="https://www.facebook.com/Pedro.Martins360/" target="blank"><img align="left" src="icons/facebook.svg" alt="pedro_martins" width="22px" /></a>
+<a href="https://www.instagram.com/pedro.martins/" target="blank"><img align="left" src="icons/instagram.svg" alt="pedro_martins" width="22px" /></a>
