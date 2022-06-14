@@ -1,7 +1,7 @@
 <h2 align="center"> Olá pessoal, eu sou o Pedro! <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="30px"> </h2>
 <h3 align="center"> Graduado em Ciências da Computação, amante de jogos e esportes 🎮⚽ </h3>
 
-<p> Gosto de codar em C# e estou explorando .Net Framework/Core. </b> </p>
+<p> Gosto muito de programar em C# e estou explorando .Net Framework/Core. </b> </p>
 
 
 
@@ -10,31 +10,26 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![VS](https://img.shields.io/badge/-VS%202019-800077?style=flat-square&logo=visual-studio)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-
-
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=sqlserver)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## :trophy: Favoritos 
 
-<img align="left" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/icons/dot-net.svg" />
-<img align="left" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/icons/c-sharp-solid.svg" />
-<img align="left" width="40px" heigth="40px" src="https://github.com/milena-ramiro/milena-ramiro/blob/main/icons/xamarin.svg" />
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 <br/>
 <br/>
