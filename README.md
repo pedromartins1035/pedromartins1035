@@ -37,5 +37,5 @@
 
 <a href="https://www.linkedin.com/in/pedro-martins-7961b81a3/" target="blank"><img align="left" src="icons/linkedin.svg" alt="pedro_martins" width="22px" /></a>
 <a href="https://www.facebook.com/Pedro.Martins360/" target="blank"><img align="left" src="icons/facebook.svg" alt="pedro_martins" width="22px" /></a>
-<a href="https://www.instagram.com/pedro.martins/" target="blank"><img align="left" src="icons/instagram.svg" alt="pedro_martins" width="22px" /></a>
+<a href="https://www.instagram.com/pedromnasci/" target="blank"><img align="left" src="icons/instagram.svg" alt="pedro_martins" width="22px" /></a>
 
